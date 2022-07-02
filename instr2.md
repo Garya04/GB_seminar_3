@@ -36,7 +36,7 @@ git config --global user.email ваша почта@example.com
 
 *git branch* - **команда для выводв списка веток**
 
-*git branch <branch_namr>* - **создание новой ветки**
+*git branch <branch_name>* - **создание новой ветки**
 
 *git checkout -b <branch_name>* - **создание и переключение на новую ветку**
 
@@ -46,3 +46,8 @@ git config --global user.email ваша почта@example.com
 
 *git branch -d <branch_name>* - **команда для удаления ветки**
 
+# Начало работы с Git
+
+>При первом использовании Git необходимо представиться. Для этого нужно ввести в терминале 2 команды:
+git config --global user.name «Ваше имя английскими буквами» например: Konstantin
+git config --global user.email ваша почта@example.com
